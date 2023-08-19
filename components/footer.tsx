@@ -7,7 +7,7 @@ import Mail from '@mui/icons-material/Mail';
 
 export default function Footer() {
   return (
-    <Box xs={{ flexGrow: 1 }}>
+    <Box>
       <Grid
         container
         rowSpacing={1}
