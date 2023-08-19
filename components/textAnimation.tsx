@@ -17,7 +17,8 @@ export default function TextAnimation(){
       wrapper="span"
       cursor={true}
       repeat={Infinity}
-      style={{ fontSize: '3em', display: 'inline-block', color: '#1c3678' }}
+      style={{ display: 'inline-block', color: '#1c3678' }}
+      className='typeAnimation'
     />
   );
 };
