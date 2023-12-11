@@ -25,9 +25,6 @@ export default function Footer() {
         <Grid item xs={8} md={8}>
           <a href="mailto:consulting@AROWbuildingsolutions.com"><Mail/> {'consulting@AROWbuildingsolutions.com'}</a>
         </Grid>
-        <Grid item xs={8} md={8}>
-          <Phone/> {'0406 478 542'}
-        </Grid>
       </Grid>
     </Box>
   );
