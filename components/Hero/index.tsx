@@ -49,10 +49,6 @@ const Hero = () => {
                     </button>
                   </div>
                 </form>
-
-                <p className="mt-5 text-black dark:text-white">
-                  Try for free no credit card required.
-                </p>
               </div>
             </div>
 
